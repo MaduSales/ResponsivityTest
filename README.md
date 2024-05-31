@@ -12,7 +12,6 @@ Projeto de uma landing page responsiva sobre o trabalho de desenvolvedores criad
 ## Tecnologias Usadas:
 - HTML;
 - CSS;
-- JavaScript;
 <br>
 
 
